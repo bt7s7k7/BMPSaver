@@ -6,7 +6,6 @@
 #include <fstream>
 
 static std::string error;
-static std::string returnCache;
 
 /*
 	Writes the pixel data to a file, expects {uint8 b, uint8 g, uint8 r}[]
