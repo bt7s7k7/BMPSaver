@@ -11,5 +11,6 @@
 #endif
 #include <cstdint>
 
+BMPSAVER_API int BMPSave(uint8_t* pixels, std::size_t w, std::size_t h, const char* filename);
 
-BMPSAVER_API int BMPSave(uint8_t* pixels, const char* filename);
+BMPSAVER_API const char* BMPGetError();
