@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29319.158
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BMPSaver", "BMPSaver\BMPSaver.vcxproj", "{B018AABC-E861-42E7-A450-17AEB4872E39}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Test", "Test\Test.vcxproj", "{C575CA54-6103-4764-A39D-D6F59BAA6518}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{B018AABC-E861-42E7-A450-17AEB4872E39}.Release|x64.Build.0 = Release|x64
 		{B018AABC-E861-42E7-A450-17AEB4872E39}.Release|x86.ActiveCfg = Release|Win32
 		{B018AABC-E861-42E7-A450-17AEB4872E39}.Release|x86.Build.0 = Release|Win32
+		{C575CA54-6103-4764-A39D-D6F59BAA6518}.Debug|x64.ActiveCfg = Debug|x64
+		{C575CA54-6103-4764-A39D-D6F59BAA6518}.Debug|x64.Build.0 = Debug|x64
+		{C575CA54-6103-4764-A39D-D6F59BAA6518}.Debug|x86.ActiveCfg = Debug|Win32
+		{C575CA54-6103-4764-A39D-D6F59BAA6518}.Debug|x86.Build.0 = Debug|Win32
+		{C575CA54-6103-4764-A39D-D6F59BAA6518}.Release|x64.ActiveCfg = Release|x64
+		{C575CA54-6103-4764-A39D-D6F59BAA6518}.Release|x64.Build.0 = Release|x64
+		{C575CA54-6103-4764-A39D-D6F59BAA6518}.Release|x86.ActiveCfg = Release|Win32
+		{C575CA54-6103-4764-A39D-D6F59BAA6518}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
